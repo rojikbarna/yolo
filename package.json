@@ -1,0 +1,15 @@
+{
+  "name": "yolo",
+  "version": "1.0.0",
+  "main": "yolo.js",
+  "dependencies": {
+    "readline-sync": "^1.4.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "barna",
+  "license": "ISC",
+  "description": ""
+}
